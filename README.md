@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @HericksonWCordeiro Beckend developer in Python, how can i help you?
+- 👋 Hi I’m @HericksonWCordeiro
+-   Beckend developer in Python
+-   How can i help you?
 
-  contact: heridiei24@gmail.com
+    contact: heridiei24@gmail.com
 
-  [Linkedin](https://www.linkedin.com/in/hericksonwcordeiro/)
+    [Linkedin](https://www.linkedin.com/in/hericksonwcordeiro/)
