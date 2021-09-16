@@ -1,5 +1,5 @@
 - 👋 Hi I’m @HericksonWCordeiro
--   Backend developer in Python
+-   Backend developer - Web Developer
 -   How can i help you?
 
     contact: herickson_cordeiro@hotmail.com
