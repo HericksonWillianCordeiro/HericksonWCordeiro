@@ -17,10 +17,10 @@
  
 
 ## About me
+[![Herickson GitHub stats](https://github-readme-stats.vercel.app/api?username=hericksonwcordeiro)](https://github.com/hericksonwcordeiro/github-readme-stats)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HericksonWCordeiro)](https://github.com/HericksonWCordeiro)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://github.com/HericksonWCordeiro)]( https://github.com/HericksonWCordeiro)
 
 
 - Thanks for visiting.
