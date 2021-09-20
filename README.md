@@ -2,7 +2,7 @@
 
  
 
-## I'm (Herickson Cordeiro)!
+## I'm (Herickson Cordeiro)!<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
  
 
@@ -21,8 +21,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/HericksonWCordeiro)](https://github.com/HericksonWCordeiro)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericksonwcordeiro&layout=compact)](https://github.com/hericksonwcordeiro/github-readme-stats)
 
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 - Thanks for visiting.
