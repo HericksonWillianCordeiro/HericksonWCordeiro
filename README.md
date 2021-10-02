@@ -31,3 +31,5 @@
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+<img src="https://github.com/HericksonWCordeiro/snakesvg/blob/main/snake.svg"/>
